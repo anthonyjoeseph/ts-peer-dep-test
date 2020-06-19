@@ -1,0 +1,14 @@
+{
+  "name": "ts-peer-dep-test",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "repository": "https://github.com/anthonyjoeseph/ts-peer-dep-test.git",
+  "author": "anthonygabriele <anthonyjoeseph@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^3.9.5"
+  },
+  "peerDependencies": {
+    "typescript": "^3.9.5"
+  }
+}
